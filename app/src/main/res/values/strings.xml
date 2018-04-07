@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">CSI Ghaziabad</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="a1">The seed for the Computer Society of India (CSI) was first sown in the year 1965
+        with a handful of IT enthusiasts who were a computer user group and felt the need to organize their
+        activities. They also wanted to share their knowledge and exchange ideas on what they felt was a fast
+        emerging sector. Today the CSI takes pride in being the largest and most professionally managed
+        association of and for IT professionals in India. The purposes of the Society are scientific and
+        educational directed towards the advancement of the theory and practice of computer science and IT.
+        The organisation has grown to an enviable size of 100,000 strong members consisting of professionals with
+        varied backgrounds including Software developers, Scientists, Academicians, Project Managers, CIO/'s
+        , CTO/'s &amp; IT vendors to just name a few. It has spread its branches all over the country. Currently
+        having more than 500 student branches and rooted firmly at 73 different locations, CSI has plans of
+        opening many more chapters &amp; activity centers in smaller towns and cities of the country. The idea is to
+        spread the knowledge, and provide opportunities to as many interested as possible.</string>
+
+    <string name="a2">Keeping in mind the interest of the IT professionals &amp; computer users CSI works towards
+        making the profession an area of choice amongst all sections of the society. The promotion of Information
+        Technology as a profession is the top priority of CSI today. To fulfill this objective, the CSI regularly
+        organizes conferences, conventions, lectures, projects, awards. And at the same time it also ensures that
+        regular training and skill updating are organised for the IT professionals. Education Directorate, CSI
+        helps physically challenged citizens by providing training 'Punarjani'. CSI also works towards a global
+        approach, by seeking out alliances with organizations overseas who may be willing to come forward and
+        participate in such activities. CSI also helps governments in formulating IT strategy &amp; planning.</string>
+
+    <string name="a3">1. Representing the Indian community in the International Federation of Information Processing (IFIP) since 1974.\n
+        2. Representation in all the technical Committees and some of the working groups of IFIP. CSI has also organised IFIP sponsored events and conferences in India.\n
+        3. Reciprocal membership agreement with the British Computer Society and the Australian Computer Society and the IEEE Computer Society.</string>
+
+    <string name="a4">In a fast changing environment, the IT Professional constantly needs to update himself. With this very purpose in mind, the CSI painstakingly brings out various technical publications at regular intervals. Some of these are:
+        \nCSI Communications in Print, Digital and an App form.
+        \nCSI Journal of Computing
+        \nCSI Transactions on ICT
+        \nIn addition CSI has its own face book page https://www.facebook.com/CSIHQ?ref=hl and a vibrant website www.csi-india.org which offers a lot of articles, information and counseling platform for all IT professionals. An active Digital Library preserves all the Digital Assets of CSI</string>
+
+    <string name="a5">Being closely associated with Students the Society has developed a well-established net-work
+        of "Student Branches" all across the country. CSI has 488 student branches with more than 90,000 Student
+        Volunteers across the nation. The activities conducted for the Students associated with the Society
+        include lecture meetings, seminars, conferences, training programmes, programming contests and practical
+        visits to installations. CSI has a strong Educational Directorate based at Chennai which undertakes
+        activities related to Certification of professionals related to the latest technologies. Its recent
+        initiative of distance education in the Business Domain areas offers technology enabled learning supported
+        by personal counseling &amp; expert advice. In an ever changing environment, CSI offers professional counseling
+        being a great need of the hour. And this is done by being in close contact with it's young members through
+        various events, conferences, symposia to name a few. CSI regularly organises SEARCC Programming Contest, Alan
+        Turning Quiz, Discover Thinking Project Contest, On-line Programming Contest etc. for the students.</string>
+
+    <string name="a6">As part of its endeavor to bring together and assimilate various aspects of IT, CSI conducts
+        premier events such as a National Convention, Regional Conferences, Theme Conferences focusing on verticals
+        etc. Apart from this number of workshops re-conducted at the local chapters to get such professionals together
+        on a common platform. Besides the Convention, the Society also conducts an "Exhibition" which endeavors to bring
+        in the manufacturers and system developers to exhibit their products &amp; services to the professionals. The
+        Society organises various panel discussions and these views are compiled so that they can be protected as the
+        views of CSI at the appropriate forums.</string>
+
+    <string name="gzbCh">CSI Ghaziabad Chapter was formed in 2004 with untiring efforts of our Founder Secretary 
+        Shri Piyush Goyal. Since then, the chapter has undertaken several projects to align with the overall 
+        objectives of its parent body. Its catchment area includes Ghaziabad, Noida, Greater Noida, Meerut and 
+        adjoining areas. Chapter has members from across Industry and Academia with over 200 individual members, 
+        25 Institutional members, 15 student branches and over 2000 student members. Our past chairmen include 
+        renowned personalities like Prof S K Kak (former Vice Chancellor of Mahamaya Technical University and 
+        former Vice Chancellor at Jaypee University Solan), Prof J P Gupta (former Member-Secretary – AICTE, 
+        former Vice Chancellor of Jaypee University Noida and Sharda University Greater Noida), Mr Neeraj Agarwal 
+        (CEO – Skills Academy), Dr Rattan Sharma (Principal Director of Vivekananda Institute of Professional 
+        Studies), Mr Piyush Goyal (DGM – Steel Authority of India Ltd) and Mr Saurabh Agrawal (Regional Delivery 
+        Head – TCS) to name a few.
+        \nOver the years, chapter has shown its leadership position within CSI at the National level by winning several awards. Our members have been recognized for their contribution to the cause of CSI.
+        \nCSI Fellow:
+        \tMr S C Bhatia
+        \nChapter Patrons:
+        \tMr Piyush Goyal
+        \tProf A K Pandey
+        \tMr Saurabh Agrawal</string>
+
+    <string name="contact"><b>Hony Secretary</b>
+                    \nDr. Kavita Saxena
+                    \nHony Secretary, CSI Ghaziabad Chapter
+                    \nEmail: ksaxena72@yahoo.com
+                    \n+91-9958991547</string>
+
+    <string name="title_activity_members">MembersActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
